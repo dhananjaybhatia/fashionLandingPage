@@ -1,0 +1,22 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+
+# Node.js/Project Dependencies
+node_modules/
+
+# Large Media Files
+/path/to/your/video.mp4  # Replace with the actual path to your video file
+
+# Build Artifacts
+dist/
+build/
+
+# Environment Files
+.env
+config.json
